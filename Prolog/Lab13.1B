@@ -1,0 +1,11 @@
+cyclist(anne).
+cyclist(bob).
+cyclist(carl).
+swimmer(anne).
+swimmer(david).
+swimmer(ellen).
+runner(bob).
+runner(fred).
+runner(ellen).
+
+team(Swimmer, Cyclist, Runner) :- swimmer(Swimmer), cyclist(Cyclist), runner(Runner), Swimmer \= Cyclist, Cyclist \= Runner.

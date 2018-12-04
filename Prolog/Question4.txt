@@ -1,0 +1,2 @@
+Prolog is a clear winner of C++ for ease of use and fast development time, implementing this kind of problem
+with other languages can quickly turn into a mess.

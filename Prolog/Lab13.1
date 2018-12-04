@@ -1,0 +1,7 @@
+parent(bob, fred).
+parent(bob, sally).
+parent(fred, arthur).
+parent(sally, matilda).
+
+siblingsFamily(SibOne, SibTwo) :- parent(X, SibOne), parent(X, SibTwo).
+cousinsFamily(CusOne,CusTwo) :- parent(ParentOne, CusOne), parent(ParentTwo, CusTwo), siblingsFamily(ParentOne, ParentTwo), CusOne \= CusTwo.

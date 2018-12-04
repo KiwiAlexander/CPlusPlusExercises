@@ -1,0 +1,24 @@
+﻿Build started 8/09/2016 6:38:12 p.m..
+     1>Project "H:\GitProgrammingFOUR\IN628PHILAS1\Orientation Bugs Skeleton\OrientationBugs2016\OrientationBugs2016.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Bug.cpp Form1.cpp Pond.cpp
+         Bug.cpp
+     1>Bug.cpp(158): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Bug.cpp(200): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>Bug.cpp(201): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+         Form1.cpp
+         Pond.cpp
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\PHILAS1\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\GitProgrammingFOUR\IN628PHILAS1\Orientation Bugs Skeleton\Release\OrientationBugs2016.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\OrientationBugs2016.Form1.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\GitProgrammingFOUR\IN628PHILAS1\Orientation Bugs Skeleton\Release\OrientationBugs2016.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\Bug.obj
+         Release\Form1.obj
+         Release\Pond.obj
+         "Release\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         OrientationBugs2016.vcxproj -> H:\GitProgrammingFOUR\IN628PHILAS1\Orientation Bugs Skeleton\Release\OrientationBugs2016.exe
+     1>Done Building Project "H:\GitProgrammingFOUR\IN628PHILAS1\Orientation Bugs Skeleton\OrientationBugs2016\OrientationBugs2016.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.42

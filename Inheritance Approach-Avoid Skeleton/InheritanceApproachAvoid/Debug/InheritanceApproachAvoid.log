@@ -1,0 +1,11 @@
+﻿Build started 7/09/2016 9:27:18 a.m..
+     1>Project "E:\Users\Patricia\Documents\Work\IN628 Prog4 2016\IN628_2016_TeachingSessions\IN628 Prog4 2016 8.2\Inheritance Approach-Avoid Skeleton\InheritanceApproachAvoid\InheritanceApproachAvoid.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Form1.cpp
+         Form1.cpp
+     1>e:\users\patricia\documents\work\in628 prog4 2016\in628_2016_teachingsessions\in628 prog4 2016 8.2\inheritance approach-avoid skeleton\inheritanceapproachavoid\Form1.h(5): fatal error C1083: Cannot open include file: 'Approacher.h': No such file or directory
+     1>Done Building Project "E:\Users\Patricia\Documents\Work\IN628 Prog4 2016\IN628_2016_TeachingSessions\IN628 Prog4 2016 8.2\Inheritance Approach-Avoid Skeleton\InheritanceApproachAvoid\InheritanceApproachAvoid.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.34

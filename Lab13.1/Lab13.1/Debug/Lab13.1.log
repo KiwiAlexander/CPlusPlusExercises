@@ -1,0 +1,17 @@
+﻿Build started 27/10/2016 8:40:46 p.m..
+     1>Project "H:\GitProgrammingFOUR\IN628PHILAS1\Lab13.1\Lab13.1\Lab13.1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Form1.cpp
+         Form1.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\GitProgrammingFOUR\IN628PHILAS1\Lab13.1\Debug\Lab13.1.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Lab131.Form1.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\GitProgrammingFOUR\IN628PHILAS1\Lab13.1\Debug\Lab13.1.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Form1.obj
+         Debug\Person.obj
+         Debug\Sport.obj
+         Debug\Team.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Lab13.1.vcxproj -> H:\GitProgrammingFOUR\IN628PHILAS1\Lab13.1\Debug\Lab13.1.exe
+     1>Done Building Project "H:\GitProgrammingFOUR\IN628PHILAS1\Lab13.1\Lab13.1\Lab13.1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.62
